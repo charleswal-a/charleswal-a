@@ -3,9 +3,9 @@
 ---
 
 # 👤&nbsp;&nbsp; About Me:
-I am Charles Walford, and undergraduate student at Stony Brook University studying Computer Science and Applied Mathematics. As an aspiring software developer, my goal is to about learning everything I can about programming, data science, and how computers work! 🔧
+I am Charles Walford, an undergraduate student at Stony Brook University studying Computer Science and Applied Mathematics. As an aspiring software developer, my goal is to learn everything I can about programming, data science, and how computers work! 🔧
 
-Currently, I am developing my skills in programming languages, machine learning and data science. I'm also working at SBU as a Student IT Technician and learning Break Through Tech as an AI/ML Fellow. 🏫 
+Currently, I am developing my skills in programming languages, machine learning, and data science. I'm also working at SBU as a Student IT Technician and learning at Break Through Tech as an AI/ML Fellow. 🏫 
 
 Feel free to check out my repos and contact me! 📭
 
